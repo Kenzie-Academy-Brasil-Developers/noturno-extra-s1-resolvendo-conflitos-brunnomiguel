@@ -1,5 +1,5 @@
 # Entrega: Resolvendo Conflitos.
 
-## Primeiro fato sobre <Brunno Miguel>
+## Segundo fato sobre <Brunno Miguel>
 
-Tenho 24 anos, moro no interior de alagoas, amo tecnologia, sou focado e disciplinado.
+Tenho 24 anos, moro no interior de alagoas, sou focado, disciplinado e gosto de resolver problemas.
